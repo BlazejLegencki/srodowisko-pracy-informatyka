@@ -1,0 +1,6 @@
+Projekt dotyczy aplikacji do zarządzania budżetem domowym dla młodych dorosłych.
+Rozwiązuje problem braku kontroli wydatków i trudności w planowaniu finansowym.
+Odbiorcą są osoby 18–30 lat chcące śledzić swoje pieniądze i osiągać 
+cele oszczędnościowe. Na pewno znajdą się: rejestr wydatków, 
+kategoryzacja transakcji, wizualizacja wydatków na wykresach, 
+ustawianie budżetu miesięcznego i powiadomienia o przekroczeniach.
