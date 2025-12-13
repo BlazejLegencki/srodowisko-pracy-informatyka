@@ -1,1 +1,70 @@
+================================================================================
+INSPIRACJE - APLIKACJA DO ZARZĄDZANIA BUDŻETEM DOMOWYM
+================================================================================
 
+I. INSPIRACJE (słowa, skojarzenia, pomysły)
+--------------------------------------------------------------------------------
+- Kontrola finansowa
+- Świadomość wydatków
+- Niezależność finansowa
+- Oszczędzanie celowe
+- Transparentność transakcji
+- Alarm budżetowy
+- Finanse w zasięgu ręki
+- Decyzje oparte na danych
+- Budowanie nawyków finansowych
+- Wizualizacja pieniędzy
+- Bezpieczeństwo monetarne
+- Cele oszczędnościowe
+- Analiza wydatków
+- Młody dorosły → odpowiedzialność
+- Aplikacja mobilna i webowa
+
+
+II. LISTA ELEMENTÓW PROJEKTÓW
+--------------------------------------------------------------------------------
+- Autentykacja użytkownika (rejestracja, logowanie)
+- Rejestr wydatków (dodawanie, edytowanie, usuwanie)
+- System kategoryzacji (domyślne kategorie, custom)
+- Pulpit główny (dashboard ze statystykami)
+- Wykresy i wizualizacje (słupkowe, kołowe, czasowe)
+- Ustawianie budżetu miesięcznego per kategoria
+- Powiadomienia o przekroczeniu budżetu
+- Raporty miesięczne/roczne
+- Eksport danych (CSV, PDF)
+- Ustawienia aplikacji
+
+
+III. WSTĘPNE DANE WEJŚCIOWE
+--------------------------------------------------------------------------------
+KATEGORIE WYDATKÓW:
+- Jedzenie i napoje
+- Transport
+- Rozrywka
+- Zakupy
+- Mieszkanie (czynsz, media)
+- Edukacja
+- Zdrowie
+- Ubezpieczenia
+- Oszczędności
+- Inne
+
+FUNKCJE KLUCZOWE:
+- Dodaj wydatek
+- Przeglądaj historię
+- Ustal budżet
+- Zobacz raport
+- Otrzymaj alert
+- Eksportuj dane
+
+
+IV. LISTA ŹRÓDEŁ POMYSŁU
+--------------------------------------------------------------------------------
+- Własna potrzeba: trudności w śledzeniu wydatków i oszczędzaniu
+- Znajomi: 18-30 latek chcący lepiej zarządzać finansami
+- Obserwacja: brak dobrych narzędzi dla młodych Polaków
+- Trendy: fintech, aplikacje do zarządzania pieniędzmi
+- Problem społeczny: niska edukacja finansowa u młodzieży
+- Przypadek: rozmowa o wydatkach i budżetowaniu
+
+================================================================================
